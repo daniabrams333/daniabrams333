@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <p>I have spent the last 5 months as a learner in the Apple Developer Academy and in 2023 I was a Mentor and Instructor for Apple Foundations. Here are two projects that demonstrate my current skill level in the SwiftUI and iOS development domain.</p>
 
 <h1>Social Media SwiftUI demo</h1>
-This is a solo project all code wrtiten by me. 
+This is a solo project, all code written by me. 
 <a href= "https://github.com/daniabrams333/NavigationExample">Find the code here.</a>
 <h2>What I learned</h2>
 How to organize code using Models. How to build navigation into SwiftUI projects.
