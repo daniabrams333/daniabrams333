@@ -19,9 +19,9 @@ This is a solo project all code wrtiten by me.
 <h2>What I learned</h2>
 How to organize code using Models. How to build navigation into SwiftUI projects.
 <h2>Screen grabs</h2>
-<img width="365" alt="Screenshot 2025-03-01 at 4 46 36 PM" src="https://github.com/user-attachments/assets/6ffc1bd5-0dc3-48cf-843b-5ccb34a5f21b" />
-<img width="383" alt="Screenshot 2025-03-01 at 4 46 54 PM" src="https://github.com/user-attachments/assets/2c847928-007e-475b-a270-0bc5933cc968" />
-<img width="272" alt="Screenshot 2025-03-01 at 4 47 06 PM" src="https://github.com/user-attachments/assets/403dfa5b-a7fd-4b69-a368-9d85c4596ba3" />
+<img width="200" alt="Screenshot 2025-03-01 at 4 46 36 PM" src="https://github.com/user-attachments/assets/6ffc1bd5-0dc3-48cf-843b-5ccb34a5f21b" />
+<img width="200" alt="Screenshot 2025-03-01 at 4 46 54 PM" src="https://github.com/user-attachments/assets/2c847928-007e-475b-a270-0bc5933cc968" />
+<img width="200" alt="Screenshot 2025-03-01 at 4 47 06 PM" src="https://github.com/user-attachments/assets/403dfa5b-a7fd-4b69-a368-9d85c4596ba3" />
 
 
 <h1>Academy Challenge 1</h1>
