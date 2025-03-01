@@ -24,7 +24,7 @@ How to organize code using Models. How to build navigation into SwiftUI projects
 <img width="272" alt="Screenshot 2025-03-01 at 4 47 06 PM" src="https://github.com/user-attachments/assets/403dfa5b-a7fd-4b69-a368-9d85c4596ba3" />
 
 
-<h1>Acadmy Challenge 1</h1>
+<h1>Academy Challenge 1</h1>
 Contribution: Coded the Stats page, learned how to manipulate navigation using a segmented picker. Also added a user View Model after challenge to begin learning the MVVM architecture. 
 <a href= "https://github.com/daniabrams333/LockInStats">Find code here</a>
 <img width="570" alt="Screenshot 2025-03-01 at 1 43 23 PM" src="https://github.com/user-attachments/assets/f0f2801b-f510-45d4-ab47-5e3cc9a01ed5" />
