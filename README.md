@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1>Examples of my Work!</h1>
 
-<p>I have spent the last 5 months as a learner in the Apple Developer Academy and in 2023 I was a Mentor and Instructor for Apple Foundations. Here are two projects I'm very proud of as I learn how to code design Native iOS applications.</p>
+<p>I have spent the last 5 months as a learner in the Apple Developer Academy and in 2023 I was a Mentor and Instructor for Apple Foundations. Here are two projects I'm very proud of as I learn how to code and design Native iOS applications.</p>
 
 <h1>Social Media SwiftUI demo</h1>
 This is a solo project all code wrtiten by me. 
