@@ -14,5 +14,17 @@ You can click the Preview link to take a look at your changes.
 <p>I have spent the last 5 months as a learner in the Apple Developer Academy and in 2023 I was a Mentor and Instructor for Apple Foundations. Here are two projects I'm very proud of as I learn how to code design Native iOS applications.</p>
 
 <h1>Social Media SwiftUI demo</h1>
+This is a solo project all code wrtiten by me. 
+<a href= "https://github.com/daniabrams333/NavigationExample">Find the code here.</a>
+<h2>What I learned</h2>
+How to organize code using Models. How to build navigation into SwiftUI projects.
+<h2>Screen grabs</h2>
+<img width="365" alt="Screenshot 2025-03-01 at 4 46 36 PM" src="https://github.com/user-attachments/assets/6ffc1bd5-0dc3-48cf-843b-5ccb34a5f21b" />
+<img width="383" alt="Screenshot 2025-03-01 at 4 46 54 PM" src="https://github.com/user-attachments/assets/2c847928-007e-475b-a270-0bc5933cc968" />
+<img width="272" alt="Screenshot 2025-03-01 at 4 47 06 PM" src="https://github.com/user-attachments/assets/403dfa5b-a7fd-4b69-a368-9d85c4596ba3" />
+
 
 <h1>Acadmy Challenge 1</h1>
+Contribution: Coded the Stats page, learned how to manipulate navigation using a segmented picker. Also added a user View Model after challenge to begin learning the MVVM architecture. 
+<a href= "https://github.com/daniabrams333/LockInStats">Find code here</a>
+<img width="570" alt="Screenshot 2025-03-01 at 1 43 23 PM" src="https://github.com/user-attachments/assets/f0f2801b-f510-45d4-ab47-5e3cc9a01ed5" />
